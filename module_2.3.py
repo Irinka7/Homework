@@ -10,7 +10,7 @@ while a >= 0:
     if a > 0:
         print(a)
     x = x + 1
-    if x > len_list:
+    if x >=len_list:
         break
 
 
